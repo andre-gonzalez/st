@@ -5,7 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:pixelsize=30:antialias=true:autohint=true";
+/* this line below is to use when i am using only my laptop screeen the next one is fot TV*/
+/*static char *font = "Liberation Mono:pixelsize=30:antialias=true:autohint=true";*/
+static char *font = "Liberation Mono:pixelsize=17:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
